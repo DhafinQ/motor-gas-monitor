@@ -40,8 +40,8 @@ Before running the project, make sure you have:
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd factory-condition-monitoring
+git clone https://github.com/DhafinQ/motor-gas-monitor.git
+cd motor-gas-monitor
 ```
 
 ### 2. Create the environment file
