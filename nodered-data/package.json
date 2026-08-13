@@ -1,0 +1,10 @@
+{
+  "name": "node-red-docker",
+  "private": true,
+  "dependencies": {
+    "node-red": "5.0.4",
+    "node-red-contrib-influxdb": "0.7.0",
+    "node-red-contrib-modbus": "^5.60.1",
+    "node-red-node-email": "^5.2.5"
+  }
+}

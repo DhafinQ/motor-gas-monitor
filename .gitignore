@@ -1,0 +1,15 @@
+.env
+*.log
+
+nodered-data/flows_cred.json
+nodered-data/flows_cred.json.bak
+nodered-data/node_modules/
+nodered-data/lib/
+nodered-data/.config.nodes.json
+nodered-data/.config.runtime.json
+nodered-data/.config.runtime.json.backup
+nodered-data/.npm/
+nodered-data/.config.users.json
+nodered-data/.config.users.json.backup
+nodered-data/.flows.json.backup
+
